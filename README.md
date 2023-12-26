@@ -1,1 +1,1 @@
-This app is built using UBOS
+UBOS-template-medialine-nr
